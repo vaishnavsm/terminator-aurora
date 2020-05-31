@@ -28,8 +28,8 @@ export LS_COLORS="rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;
 
 ## Images
 
-![picture with ls]()
-![picture with git]()
+![picture with ls](https://github.com/vaishnavsm/terminator-aurora/raw/master/terminator-aurora-1.png)
+![picture with git](https://github.com/vaishnavsm/terminator-aurora/raw/master/terminator-aurora-2.png)
 
 ### Note
 The terminal uses ZSH with the agnoster theme
